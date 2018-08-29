@@ -2,6 +2,7 @@
 	* AVENGERS: INFINITY WAR
 	* READY PLAYER ONE
 	* となりの怪物くん
+	* 劇場版 コード・ブルー
 * 2018.07
 	* TOMB RAIDER FIRST MISSION
 	* RED SPARROW
