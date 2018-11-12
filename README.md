@@ -1,3 +1,16 @@
+* 2018.10
+	* Mamma Mia! Here We Go Again
+	* Mission: Impossible – Fallout
+	* Ant-Man and the Wasp
+	* Sicario: Day of the Soldado
+	* 万引き家族
+	* Hotel Gagarin
+* 2018.11
+	* SOLO: A STAR WARS STORY
+	* Annihilation
+	* Ocean's Eight
+	* Deadpool 2
+	* Jurassic World
 * 2018.08
 	* AVENGERS: INFINITY WAR
 	* READY PLAYER ONE
