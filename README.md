@@ -5,6 +5,7 @@
 	* Sicario: Day of the Soldado
 	* 万引き家族
 	* Hotel Gagarin
+	* Fantastic Beasts: The Crimes of Grindelwald
 * 2018.10
 	* SOLO: A STAR WARS STORY
 	* Annihilation
