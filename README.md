@@ -1,3 +1,8 @@
+* 2019.02
+	* Behemian Rhapsody
+	* VENOM
+	* The Predator
+	* A Star is Born
 * 2018.11
 	* Mamma Mia! Here We Go Again
 	* Mission: Impossible – Fallout
