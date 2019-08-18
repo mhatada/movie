@@ -1,3 +1,7 @@
+* 2019.08
+	* AQUAMAN
+	* The Meg
+	* THE MULE
 * 2019.07
 	* Captain Marvel
 * 2019.05
