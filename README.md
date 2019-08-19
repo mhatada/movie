@@ -2,6 +2,7 @@
 	* AQUAMAN
 	* The Meg
 	* THE MULE
+	* Robin Hood
 * 2019.07
 	* Captain Marvel
 * 2019.05
