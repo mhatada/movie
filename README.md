@@ -1,3 +1,8 @@
+* 2019.10
+	* Spider-man: homecoming
+* 2019.09
+	* Avengers: Endgame
+	* Aladdin
 * 2019.08
 	* AQUAMAN
 	* The Meg
