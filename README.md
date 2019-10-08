@@ -1,5 +1,6 @@
 * 2019.10
 	* Spider-man: homecoming
+	* Ghost in the Shell
 * 2019.09
 	* Avengers: Endgame
 	* Aladdin
