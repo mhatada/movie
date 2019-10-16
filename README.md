@@ -1,6 +1,7 @@
 * 2019.10
 	* Spider-man: homecoming
 	* Ghost in the Shell
+	* 時をかける少女(2010)
 * 2019.09
 	* Avengers: Endgame
 	* Aladdin
