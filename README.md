@@ -1,3 +1,5 @@
+* 2019.11
+	* MIDWAY
 * 2019.10
 	* Spider-man: homecoming
 	* Ghost in the Shell
