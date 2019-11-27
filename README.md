@@ -1,4 +1,12 @@
 * 2019.11
+	* THE LION KING
+	* Spider-Man: Far From Home
+	* SHAFT
+	* Once Upon a Time in Hollywood
+	* X-MEN: Dark Phoenix
+	* Toy Story 4
+	* アルキメデスの大戦
+	* EX MACHINA
 	* MIDWAY
 * 2019.10
 	* Spider-man: homecoming
