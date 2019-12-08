@@ -1,3 +1,5 @@
+* 2019.12
+	* FROZEN II
 * 2019.11
 	* THE LION KING
 	* Spider-Man: Far From Home
