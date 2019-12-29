@@ -1,5 +1,10 @@
 * 2019.12
 	* FROZEN II
+	* Ad Astra
+	* Fast & Furious Presents: Hobbs & Shaw
+	* Angel Has Fallen
+	* 見えない目撃者
+	* Mad Max: Fury Road
 * 2019.11
 	* THE LION KING
 	* Spider-Man: Far From Home
