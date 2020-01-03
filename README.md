@@ -1,3 +1,8 @@
+* 2029.01
+	* Maleficent: Mistress of Evil
+	* Gemini Man
+	* IT Chapter Two
+	* Zombieland: Double Tap
 * 2019.12
 	* FROZEN II
 	* Ad Astra
