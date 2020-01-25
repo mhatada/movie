@@ -3,6 +3,11 @@
 	* Gemini Man
 	* IT Chapter Two
 	* Zombieland: Double Tap
+	* Star Wars: The Rise of Skywalker
+	* The Aeronauts
+	* Troop Zero
+	* The Lost City of Z
+	* Fast Color
 * 2019.12
 	* FROZEN II
 	* Ad Astra
