@@ -1,3 +1,7 @@
+* 2020.02
+	* JOKER
+	* Woman Wears the Prada
+	* Parasite
 * 2020.01
 	* Maleficent: Mistress of Evil
 	* Gemini Man
