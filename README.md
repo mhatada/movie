@@ -2,6 +2,9 @@
 	* Sherlock Holmes
 	* Abominable
 	* Super 8
+	* Wonder Woman
+	* Justice League
+	* SHAFT
 * 2020.02
 	* JOKER
 	* Woman Wears the Prada
@@ -26,7 +29,7 @@
 * 2019.11
 	* THE LION KING
 	* Spider-Man: Far From Home
-	* SHAFT
+	* SHAFT 2
 	* Once Upon a Time in Hollywood
 	* X-MEN: Dark Phoenix
 	* Toy Story 4
