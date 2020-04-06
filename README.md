@@ -1,3 +1,8 @@
+* 2020.04
+	* KAIJI: FINAL GAME
+	* Jojo Rabbit
+	* Richard Jewel
+	* Ford v Ferrari
 * 2020.03
 	* Sherlock Holmes
 	* Abominable
