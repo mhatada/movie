@@ -1,3 +1,8 @@
+* 2020.07
+	* 天気の子
+	* Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+	* Bloodshot
+	* The Call of the Wild
 * 2020.04
 	* KAIJI: FINAL GAME
 	* Jojo Rabbit
