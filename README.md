@@ -1,3 +1,9 @@
+* 2020.11
+	* Terminator: Dart Fate
+	* Underworld
+	* Underworld: Evolution
+	* Underworld: Rise of the Lycans
+	* Electra
 * 2020.07
 	* 天気の子
 	* Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
