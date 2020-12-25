@@ -1,5 +1,6 @@
 * 2020.12
 	* I'm Your Woman
+	* Bombshell
 * 2020.11
 	* Terminator: Dart Fate
 	* Underworld
