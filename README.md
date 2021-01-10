@@ -1,3 +1,5 @@
+* 2021.01
+	* Black Panther
 * 2020.12
 	* I'm Your Woman
 	* Bombshell
