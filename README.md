@@ -1,3 +1,11 @@
+* 2021.06
+	* Babe
+	* 1917
+	* ARGO
+	* MULAN
+* 2021.05
+	* CRISIS
+	* EMMA
 * 2021.01
 	* Black Panther
 * 2020.12
