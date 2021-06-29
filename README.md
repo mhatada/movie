@@ -3,6 +3,11 @@
 	* 1917
 	* ARGO
 	* MULAN
+	* Nomadland
+	* Raya and the last dragon
+	* Wonder Woman 1984
+	* Promising Young Woman
+	* Tom and Jerry
 * 2021.05
 	* CRISIS
 	* EMMA
