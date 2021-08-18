@@ -1,3 +1,6 @@
+* 2021.08
+	* CHAOS WALKING
+	* A QUIET PLACE PART II
 * 2021.06
 	* Babe
 	* 1917
