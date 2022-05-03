@@ -1,3 +1,7 @@
+* 2022.04
+	* バブル
+	* Fantastic Beasts: The Secrets of Dumbledore
+	* 劇場版 ヴァイオレット・エヴァーガーデン
 * 2021.10
 	* BLACK WIDOW
 	* LUCA
@@ -128,7 +132,7 @@
 	* TOMB RAIDER FIRST MISSION
 	* RED SPARROW
 	* ちはやふる - 結び -
-	* PENTAGON PAPERS 
+	* PENTAGON PAPERS
 * 2018.04
 	* 名探偵コナン ゼロの執行人
 * 2018.03
@@ -151,4 +155,3 @@
  	* MARK FELT: THE MAN WHO BROUGHT DOWN THE WHITE HOUSE
 	* ナラタージュ
 	* ひるね姫
-
