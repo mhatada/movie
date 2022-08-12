@@ -1,3 +1,5 @@
+* 2022.08
+	* 竜とそばかす姫
 * 2022.04
 	* バブル
 	* Fantastic Beasts: The Secrets of Dumbledore
