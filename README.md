@@ -1,3 +1,9 @@
+* 2023.08
+	* The Super Mario Bros. Movie
+	* TÁR
+	* 65
+	* キングダム
+	* キングダム2
 * 2023.06
 	* Ant-Man and the Wasp: Quantumania
 	* Amsterdam
