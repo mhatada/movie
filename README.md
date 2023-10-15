@@ -1,3 +1,7 @@
+* 2023.10
+	* Indiana Jones and the Dial of Destiny
+	* Fast X
+	* The Flash
 * 2023.09
 	* Gaza
 * 2023.08
