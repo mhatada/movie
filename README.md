@@ -1,3 +1,5 @@
+* 2024.05
+	* シティーハンター
 * 2023.10
 	* Indiana Jones and the Dial of Destiny
 	* Fast X
