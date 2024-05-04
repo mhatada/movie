@@ -1,5 +1,6 @@
 * 2024.05
 	* シティーハンター
+	* ゴジラ-1.0
 * 2023.10
 	* Indiana Jones and the Dial of Destiny
 	* Fast X
