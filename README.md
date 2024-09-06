@@ -1,3 +1,10 @@
+* 2024.08
+	* KINGDOM OF THE PLANET OF THE APE
+	* ハイキュー
+	* We Grown Now
+	* Turtles All the Way Down
+	* MADAM WEB
+	* EQUALIZER 3
 * 2024.05
 	* シティーハンター
 	* ゴジラ-1.0
