@@ -1,3 +1,8 @@
+* 2024.10
+	* Inside Out
+	* Inside Out 2
+	* The Watchers
+	* Anatomy of a Fall
 * 2024.08
 	* KINGDOM OF THE PLANET OF THE APE
 	* ハイキュー
