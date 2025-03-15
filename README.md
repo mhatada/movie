@@ -1,3 +1,8 @@
+* 2025.03
+	* Moana 2
+	* Maria
+	* Gladiator II
+	* Kraven the Hunter
 * 2024.10
 	* Inside Out
 	* Inside Out 2
