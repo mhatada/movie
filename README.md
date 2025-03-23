@@ -3,6 +3,7 @@
 	* Maria
 	* Gladiator II
 	* Kraven the Hunter
+	* 正体
 * 2024.10
 	* Inside Out
 	* Inside Out 2
