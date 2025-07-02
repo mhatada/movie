@@ -1,3 +1,11 @@
+* 2025.06
+	* Snow White
+	* Captain America: Brave New World
+	* Flow
+	* Cells at Work!
+	* Inheritance
+	* Conclave
+	* The Unbreakable Boy
 * 2025.03
 	* Moana 2
 	* Maria
