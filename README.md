@@ -1,3 +1,5 @@
+* 2025.07
+	* グランメゾン・パリ
 * 2025.06
 	* Snow White
 	* Captain America: Brave New World
