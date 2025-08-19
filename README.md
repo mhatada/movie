@@ -1,3 +1,10 @@
+* 2025.08
+	* PADDINGTON IN PERU
+	* WICKED
+	* Ghostbusters: Frozen Empire
+	* Thunderbolts
+	* BLACK BAG
+	* 機動戦士ガンダムSEED FREEDOM
 * 2025.07
 	* グランメゾン・パリ
 * 2025.06
