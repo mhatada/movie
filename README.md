@@ -1,3 +1,6 @@
+* 2026.01
+	* 教場
+	* 教場 Reunion
 * 2025.10
 	* HOW TO TRAIN YOUR DRAGON
 	* MATERIALISTS
